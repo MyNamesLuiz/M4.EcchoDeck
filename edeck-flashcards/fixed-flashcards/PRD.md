@@ -3,13 +3,13 @@
 ## 1. Problema
 
 ### Qual problema específico estamos resolvendo?
-Estudantes universitários e de cursos técnicos estudam conteúdos extensos (fórmulas, conceitos, definições, vocabulário) e os esquecem rapidamente porque não revisam no momento certo. Uma única sessão de leitura não é suficiente para consolidar memória de longo prazo.
+Estudantes universitários de diversos cursos, seja superior ou tecnico, e os admiradores de concursos estudam muito conteudo extensivo (fórmulas, conceitos, definições, vocabulário) e os esquecem rapidamente porque não revisam no momento certo. Uma única sessão de leitura não é suficiente para consolidar memória de longo prazo.
 
 ### Por que esse problema vale a pena resolver?
-A curva do esquecimento de Ebbinghaus mostra que até 70% do conteúdo novo é esquecido em 24 horas sem revisão. Ferramentas de repetição espaçada comprovadamente aumentam a retenção, mas a maioria dos estudantes não tem um sistema acessível e simples para isso.
+Estudos feitos por especialistas de psicanálise mostram que a curva do esquecimento faz com que 70% de um conteúdo novo seja esquecido em 24 horas sem revisão. Ferramentas de repetição espaçada comprovadamente aumentam a retenção, mas a maioria dos estudantes não tem um sistema acessível e simples para isso.
 
 ### Quem é o usuário?
-Estudante de graduação ou curso técnico que:
+Estudante de cursos em geral e concurseiros:
 - Precisa memorizar conteúdo denso para provas (ex: anatomia, direito, programação, idiomas)
 - Já tentou decorar anotações, mas se perde na quantidade de material
 - Quer saber **o que ainda não domina** para priorizar o tempo de estudo
