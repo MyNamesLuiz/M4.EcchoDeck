@@ -81,7 +81,7 @@ Acesse `http://localhost:5173` no navegador.
 
 ## Deploy
 
-Link do deploy: **[a preencher após publicação na Vercel]**
+Link do deploy: **[Será implementado novamente devido a bugs no momento]**
 
 > Para fazer o deploy: publicar a API no Railway ou Render, atualizar `API_BASE_URL` em `src/services/api.ts` com a URL pública, e então fazer deploy do frontend na Vercel.
 
