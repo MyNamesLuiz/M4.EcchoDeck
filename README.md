@@ -26,25 +26,25 @@ Leia o [PRD.md](./PRD.md) para a definição completa do problema, usuário e de
 
 ```
 flashcards/
-├── db.json                          # Banco de dados local (json-server)
-├── PRD.md                           # Mini Product Requirements Document
+├── db.json                          
+├── PRD.md                           
 └── src/
-    ├── App.tsx                      # Componente raiz — layout e roteamento de views
+    ├── App.tsx                      
     ├── types/
-    │   └── index.ts                 # Interfaces: Flashcard, FlashcardInput, ApiError
+    │   └── index.ts                
     ├── services/
-    │   └── api.ts                   # Camada de comunicação HTTP (fetch)
+    │   └── api.ts                  
     ├── hooks/
-    │   └── useFlashcards.ts         # Custom hook: estado e operações CRUD
+    │   └── useFlashcards.ts         
     └── components/
-        ├── Sidebar.tsx              # Navegação lateral
-        ├── DeckHeader.tsx           # Cabeçalho do deck com stats e botão ESTUDAR
-        ├── MasteryCircle.tsx        # Indicador circular de domínio (SVG)
-        ├── StudyMode.tsx            # Modo de estudo full-screen com flip 3D
-        ├── FlashcardList.tsx        # Lista de cards com ordenação
-        ├── FlashcardItem.tsx        # Card individual com flip e avaliação
-        ├── FlashcardForm.tsx        # Formulário de criação
-        └── ConfirmationModal.tsx    # Modal de confirmação de remoção
+        ├── Sidebar.tsx              
+        ├── DeckHeader.tsx           
+        ├── MasteryCircle.tsx        
+        ├── StudyMode.tsx            
+        ├── FlashcardList.tsx        
+        ├── FlashcardItem.tsx        
+        ├── FlashcardForm.tsx        
+        └── ConfirmationModal.tsx    
 ```
 
 ---
